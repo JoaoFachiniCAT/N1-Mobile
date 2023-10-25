@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "688684265614",
+    "project_id": "db-mobile-acfac",
+    "storage_bucket": "db-mobile-acfac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688684265614:android:6437ffd3026900822e59df",
+        "android_client_info": {
+          "package_name": "com.example.n1mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQquRDAb1PS8db3aJn1ZIJwhLs8eZklyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
